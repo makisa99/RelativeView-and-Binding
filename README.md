@@ -1,2 +1,2 @@
 # ViewbindingRV
- Kotlin ViewBinding practice - from tutorialseu kotlin masterclass
+ Kotlin RecyclerView and ViewBinding demo - from tutorialseu kotlin masterclass
